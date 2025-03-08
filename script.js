@@ -2,6 +2,8 @@
 window.addEventListener("load", function() {
             var audio = document.getElementById("myAudio");
             audio.play();
+});
+                        
 
 // Function to handle button click events
 function selectOption(option) {
